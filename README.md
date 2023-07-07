@@ -22,6 +22,23 @@ desenvolvendo empreendedores.</p>
 <a href="https://entre-linhas.debugon.xyz/" target="_blank"><img src="https://github.com/Entre-Linhas/.github/blob/main/profile/Plataforma.png" alt='Matheus Passos' width="70%"></a>
 </div>
 
+<h2 align="center">Tecnologias</h2>
+<div align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80px"/>
+</div>
+          
+          
+
+      
+          
+
+          
+          
+          
+
 <h2 align="center">Conheça nossa equipe</h2>
 <div align='center'>
   <a href="https://www.linkedin.com/in/passosmatheus/" target="_blank"><img src="https://github.com/Entre-Linhas/.github/blob/main/profile/Passos.png" alt='Matheus Passos' width="200px"></a>
